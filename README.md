@@ -1,6 +1,4 @@
-Certainly! Here's a GitHub-friendly version of the README template:
 
-```markdown
 # Movies Review Website
 
 Welcome to the Movies Review Website! This platform allows users to review and discuss their favorite movies.
@@ -75,6 +73,5 @@ If you would like to contribute to this project, please follow our [contribution
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
 
-Copy and paste this content into your project's README.md file on GitHub. Make sure to update the placeholders like `your-username` with your actual GitHub username and adjust any other details specific to your project.
+---
